@@ -1,0 +1,28 @@
+name: Los Angeles Sports and Fitness
+favicon: null
+layout_spectrum: 0.5876278360374272
+typography_spectrum: 0.6381065419409424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.019703463884070516
+  lightness: 0.13951722020283341
+  saturation: 0.29198979935608804
+  rhythmicContrast: 0.33331649703904986
+purpose: []
